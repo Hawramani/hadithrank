@@ -97,6 +97,9 @@ const lenientCalc = new IntegrityCalculator(0.8);
 ```
 
 ### Input Format
+Any string can be used instead of Source:
+* Prophet Muhammad ﷺ > Companion 1 > Transmitter A > Transmitter B > Transmitter C
+
 The parser is flexible with whitespace. All the following are valid:
 * `Source > A > B`
 * `Source>A>B`
