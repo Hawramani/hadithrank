@@ -18,20 +18,6 @@ The algorithm models the *isnād* (transmission chain) as a signal propagation n
 
 ---
 
-## ⚖️ Attribution & Disclaimer
-
-**The HadithRank algorithm is the intellectual work of Ikram Hawramani.**
-
-This repository contains a code implementation of the mathematical definitions provided in the article linked above. This implementation does not claim originality over the algorithm itself, only the specific JavaScript code structure provided herein.
-
-**Forking Guidelines:**
-If you fork this repository, you represent that:
-1.  You will retain this attribution section.
-2.  You will clearly state that your work is a fork of a HadithRank implementation.
-3.  You will not misrepresent the algorithm as your own original invention.
-
----
-
 ## 🚀 Installation
 
 This is a standalone JavaScript class. You can include it directly in your Node.js project or browser environment.
