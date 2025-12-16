@@ -1,6 +1,6 @@
-MIT License with Algorithm Attribution
+MIT License
 
-Copyright (c) 2025 Hawramani
+Copyright (c) 2025 Ikram Hawramani (hawramani.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,11 +11,6 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-ALGORITHM ATTRIBUTION: Any use, implementation, or derivative of the HadithRank
-algorithm must acknowledge it as "HadithRank" or "based on HadithRank" in the
-documentation, source code comments, or user-facing credits. The algorithm must
-not be misrepresented as an original work of the implementer.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
