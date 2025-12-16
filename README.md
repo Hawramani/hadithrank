@@ -14,7 +14,7 @@ The algorithm models the *isnād* (transmission chain) as a signal propagation n
 2.  **Serial Attenuation (Parent-Child):** Transmission from a narrator to their student acts as a bottleneck, multiplying the signal by an attenuation factor (fidelity coefficient): `LI_parent * α`.
 3.  **Bottleneck Property:** A node's unreliability cannot be completely overcome by downstream branching; the "weakest link" strictly limits the maximum possible integrity of that branch.
 
-> **Read the full methodology:** > [Probabilistic Hadith Verification With Information Theory: The HadithRank Algorithm](https://hawramani.com/probabilistic-hadith-verification-with-information-theory-the-hadithrank-algorithm/)
+> **Read the full methodology:** > [Mathematical Hadith Verification With Information Theory: The HadithRank Algorithm](https://hawramani.com/mathematical-hadith-verification-with-information-theory-the-hadithrank-algorithm/)
 
 ---
 
